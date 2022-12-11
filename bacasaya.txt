@@ -1,2 +1,4 @@
 Nama:Tuti Handayani
-Jurusan:Teknik informatika
+Jurusan:Teknik Informatika
+Fakultas:Ilmu Komputer
+Universitas Banten Jaya
